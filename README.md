@@ -19,7 +19,10 @@ CodeMates is a **revolutionary DevOps automation platform** designed to eliminat
 
 ## 🎥 Project Output
 
-https://github.com/user-attachments/assets/bb84a034-0cff-4ff3-a110-2e3bfb6bf876
+
+
+https://github.com/user-attachments/assets/78a49d5e-bc0b-4a15-8b38-7df9c6d3d499
+
 
 ---
 
