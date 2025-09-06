@@ -1,8 +1,8 @@
-# TALKITDOIT: AI-Powered DevOps Agent Collective
+# CodeMates: AI Agents for your Code to Cloud journey
 
 > **An intelligent ecosystem of AI agents that transforms your development workflow through automation, prediction, and natural language interaction.**
 
-TALKITDOIT is a **revolutionary DevOps automation platform** designed to eliminate manual bottlenecks in your development pipeline. It leverages a team of specialized AI agents that work collaboratively to handle code review, build prediction, infrastructure management, and CI/CD orchestration. This ensures your development process is not just automated, but also intelligent, predictive, and continuously optimized, saving your team countless hours while improving code quality and deployment reliability.
+CodeMates is a **revolutionary DevOps automation platform** designed to eliminate manual bottlenecks in your development pipeline. It leverages a team of specialized AI agents that work collaboratively to handle code review, build prediction, infrastructure management, and CI/CD orchestration. This ensures your development process is not just automated, but also intelligent, predictive, and continuously optimized, saving your team countless hours while improving code quality and deployment reliability.
 
 ---
 
@@ -182,13 +182,6 @@ TALKITDOIT represents the future of DevOps automation and demonstrates the power
 
 ## 🧑‍💻 Community & Support
 
-**TALKITDOIT Team** — DevOps enthusiasts building the future of intelligent automation
-
-📺 **YouTube Channel**: [Watch Tutorials](https://www.youtube.com/@talkitdoit)  
-⭐ **GitHub Repository**: [Star the Project](https://github.com/talkitdoit/build-a-devops-team-using-ai-agents)  
-🐛 **Issues & Support**: [Report Bugs](https://github.com/talkitdoit/build-a-devops-team-using-ai-agents/issues)  
-📧 **Contact**: Open an issue for questions and feature requests
+📧 **Contact me**: rohantikotekar@gmail.com
 
 ---
-
-**License**: MIT | **Minimum Python**: 3.13.0 | **Docker Required**: Yes | **Free Tier Friendly**: ✅
