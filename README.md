@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/78a49d5e-bc0b-4a15-8b38-7df9c6d3d499
 
 ## 🏗️ Architecture
 
-The TALKITDOIT platform operates as a distributed AI agent system where each agent specializes in specific DevOps domains:
+The CodeMates platform operates as a distributed AI agent system where each agent specializes in specific DevOps domains:
 
 - A **Code Analysis Agent** (reviews, suggests improvements, detects issues)
 - A **Build Prediction Engine** (forecasts success rates, identifies risks)
