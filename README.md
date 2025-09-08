@@ -181,6 +181,16 @@ TALKITDOIT represents the future of DevOps automation and demonstrates the power
 
 ---
 
+## 📌 Resume
+
+- Built an AI-powered platform using LLMs (LLaMA-3.1-8B-Instant, OpenAI, GROQ) where AI agents collaborate to improve the software development lifecycle.
+- Designed specialized AI agents for code review, build success prediction, CI/CD pipeline generation, and cloud resource management.
+- Applied predictive analytics with LLMs to forecast build outcomes and deployment risks with ~92% accuracy.
+- Enabled natural language interaction, allowing developers to manage builds and deployments using plain English commands.
+- Reduced manual engineering tasks by ~85% and generated optimized pipelines in <30 seconds, boosting reliability and developer productivity.
+
+---
+
 ## 🧑‍💻 Community & Support
 
 📧 **Contact me**: rohantikotekar@gmail.com
